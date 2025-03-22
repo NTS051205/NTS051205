@@ -1,79 +1,13 @@
 
-<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
+# 💻Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=NTS051205&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NTS051205&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NTS051205&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Tien+Son;" />
-</h1>
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="center">I'm a Web Developer </h3>
-
-<br/>
-
-<div align="center">
-
- 🌍 I'm based in Vietnamese 
- 
- 🔭 I’m currently working on **a chat app**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
-
-<div align="center"> 
-  <a href="mailto:nguyentienson0512@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/nguyen-son-4247322a7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://NTS051205.github.io/myWebSite/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
-<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
-<div align="center">
-<!-- <a href="https://www.upwork.com/freelancers/~016168d191a73ccc35" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.fiverr.com/thanh_tin?up_rollout=true" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.freelancer.com/u/TinTran11" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.peopleperhour.com/freelancer/tin-tran-front-end-developer-zaxjymzw" target="_blank" rel="noreferrer"><img src="https://d1a29h5kxv3oc2.cloudfront.net/dist/img/pph-share.ced894418333eca244808771d4a24a87.png" width="36" height="36" alt="CSS3" /></a> -->
-</div>
-
-<p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
-</p>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
-</div>
-  <br/><br/><br/>
-<hr/>
-<br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="nguyentienson0512">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtin4401&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="nguyentienson0512">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nguyentienson0512&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=NTS051205&icon=0&color=0)](https://visitcount.itsvg.in)
